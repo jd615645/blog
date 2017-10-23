@@ -9,7 +9,7 @@ tags:
 categories:
 - 作品整理
 ---
-因為在HaHow上了「動畫互動網頁程式入門」、「動畫互動網頁特效入門」，以及在FreeCodeCamp上有一些專案是在CodePen上寫作，所以為方便自己統整、查詢在此統整紀錄。
+因為在Hahow上了「動畫互動網頁程式入門」、「動畫互動網頁特效入門」，以及在FreeCodeCamp上有一些專案是在CodePen上寫作，所以為方便自己統整、查詢在此統整紀錄。
 
 ## FreeCodeCamp
 * [FreeCodeCamp : Show the Local Weather](https://codepen.io/jd615645/full/qPJmLX/)
@@ -32,4 +32,3 @@ categories:
 ## 老闆來點寇汀吧
 * [Vue.js 組件概念與實作-搜尋與即時關鍵字反白](https://codepen.io/jd615645/full/Qgojrb/)
 ![](https://imgur.com/pdMD4XR.png)
-
