@@ -1,7 +1,16 @@
 ---
-title: Vue.js-vue.js中使用setInterval()、clearInterval()、clearLnterval()、setTimeout()
+title: Vue.js中使用setInterval()、clearInterval()、clearLnterval()、setTimeout()
 date: 2017-10-16 11:18:52
-tags: [vue.js, timer, setInterval, clearInterval, clearLnterval, setTimeout]
+tags: 
+- vue.js
+- timer
+- setInterval
+- clearInterval
+- clearLnterval
+- setTimeout
+categories:
+- Vue.js
+- Front End
 ---
 前些日子在做FreeCodeCamp的題目「Build a Pomodoro Clock」需要做計數功能，但是大部分使用setTimeout的範例都是JQuery版本，因此在此做個紀錄。
 

@@ -1,7 +1,12 @@
 ---
-title: Node.js-使用forever運行Node.js服務
+title: 使用forever運行Node.js服務
 date: 2017-10-21 12:00:00
-tags: [Node.js, Forever] 
+tags:
+- Node.js
+- Forever
+categories:
+- Node.js
+- Back End
 ---
 Forever是用來使node.js程式可以在後台一直運作的指令工具，如果程式出錯它也會幫你自動重啟，對於一些網站服務而言非常的重要。
 [Forever github 頁面](https://github.com/foreverjs/forever)
