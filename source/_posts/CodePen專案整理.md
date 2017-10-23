@@ -1,6 +1,6 @@
 ---
 title: CodePen專案整理
-date: 2017-10-23 12:00:00
+date: 2017-10-23 22:13:00
 tags: 
 - CodePen
 - FreeCodeCamp
@@ -14,19 +14,14 @@ categories:
 ## FreeCodeCamp
 * [FreeCodeCamp : Show the Local Weather](https://codepen.io/jd615645/full/qPJmLX/)
 ![](https://imgur.com/AfT2Vcs.png)
-
 * [FreeCodeCamp : Random Quote Machine](https://codepen.io/jd615645/full/Xexqpx/)
 ![](https://imgur.com/qdEti5q.png)
-
 * [FreeCodeCamp : Build a Wikipedia Viewer](https://codepen.io/jd615645/full/ZXmVLv/)
 ![](https://imgur.com/LiuqGmI.png)
-
 * [FreeCodeCamp : Use the Twitchtv JSON API](https://codepen.io/jd615645/full/NaowrL/)
 ![](https://imgur.com/gAzviR6.png)
-
 * [FreeCodeCamp : Build a Pomodoro Clock](https://codepen.io/jd615645/full/VMNzaM/)
 ![](https://imgur.com/josQ9N0.png)
-
 * [FreeCodeCamp : Build a Tic Tac Toe Gameasdf](https://codepen.io/jd615645/full/QqoRVM/)
 ![](https://imgur.com/Kf1353I.png)
 
