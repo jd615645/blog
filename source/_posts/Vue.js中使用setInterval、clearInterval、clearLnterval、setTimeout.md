@@ -1,5 +1,5 @@
 ---
-title: Vue.js中使用setInterval()、clearInterval()、clearLnterval()、setTimeout()
+title: Vue.js中使用setInterval、clearInterval、clearLnterval、setTimeout
 date: 2017-10-16 11:18:52
 tags: 
 - vue.js
