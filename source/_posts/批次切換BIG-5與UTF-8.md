@@ -28,7 +28,7 @@ iconv -f BIG-5 -t UTF-8 big5.csv > utf8.csv
 
 ### UTF-8 csv轉BIG-5 csv
 ```
-iconv -f UTF-8 -t BIG-5 utf8.txt > big5.txt
+iconv -f UTF-8 -t BIG-5 utf8.csv > big5.csv
 ```
 
 ### 批次轉換目錄下的BIG-5 csv轉UTF-8 csv
