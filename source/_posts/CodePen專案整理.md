@@ -1,6 +1,6 @@
 ---
 title: CodePen專案整理
-date: 2017-10-23 22:13:00
+date: 2017-10-26 13:00:00
 tags: 
 - CodePen
 - FreeCodeCamp
@@ -24,6 +24,11 @@ categories:
 ![](https://imgur.com/josQ9N0.png)
 * [FreeCodeCamp : Build a Tic Tac Toe Gameasdf](https://codepen.io/jd615645/full/QqoRVM/)
 ![](https://imgur.com/Kf1353I.png)
+* [FreeCodeCamp : Javascript Calculator](https://codepen.io/jd615645/full/qPwoPE/)
+![](https://imgur.com/IpXorlX.png)
+* [FreeCodeCamp: Build a Simon Game](https://codepen.io/jd615645/full/qPzrXN/)
+![](https://imgur.com/A60K4CW.png)
+
 
 ## 動畫互動網頁程式入門
 * [動畫互動網頁程式入門 project1](https://codepen.io/jd615645/full/VKBOoa/)
