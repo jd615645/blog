@@ -14,7 +14,7 @@ Let’s Encrypt是一個非營利組織，提供免費的TLS/SSL 憑證，透過
 
 ## 下載SSL憑證
 
-Let’s Encrypt可以手動更新也可以透過指令工具進行下載，這邊使用官方建議的Certbot自動畫工具來下載。
+Let’s Encrypt可以手動更新也可以透過指令工具進行下載，這邊使用官方建議的Certbot自動化工具來下載。
 
 從 Certbot 官方網站下載  `certbot-auto` ，設定執行權限，並將它放在 `/opt` 下：
 
