@@ -35,6 +35,9 @@ cd CTFd
 SQLALCHEMY_DATABASE_URI = 'mysql://[SQLaccount]:[SQLpasswd]@localhost/CTFd?charset=utf8mb4'
 ```
 
+## 啟動CTFd
+執行 `serve.py` 即可在 `127.0.0.1:4000` 看到你的站已經架起來了
+
 ### 設定Nginx
 因為單純用flask框架開啟CTFd效能並不好，因此建議使用Apache或是Nginx，以下採用Nginx作為示範。
 因為是使用 `uwsgi` 作為串接，因此需要更改Nginx的設定。
@@ -56,6 +59,6 @@ uwsgi -s /tmp/uwsgi.sock -w "CTFd:create_app()" --chmod-socket=666
 client_max_body_size [size];
 ```
 
-# 備份方法
+## 備份方法
 * 直接備份資料庫
 * 登入管理員帳號 -> Admin -> Config -> Backup
