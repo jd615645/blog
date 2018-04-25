@@ -1,6 +1,7 @@
 language: node_js #選擇語言
 
-node_js: stable #選擇版本
+node_js:
+  - 9
 
 cache:
   directories:
