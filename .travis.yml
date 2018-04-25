@@ -23,10 +23,11 @@ deploy:
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   local-dir: public
+  target-branch: master
   email: jd615645@gmail.com
   name: jd615645
   on:
-    branch: master
+    branch: hexo_src
 
 notifications:
   email:
