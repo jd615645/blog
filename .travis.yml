@@ -8,6 +8,9 @@ cache:
 
 install:
   - yarn
+  - cd themes/material
+  - yarn
+  - cd ../..
 
 #要執行的程式
 script:
