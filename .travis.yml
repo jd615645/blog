@@ -1,0 +1,39 @@
+language: node_js #選擇語言
+
+node_js:
+  - 9
+
+cache:
+  directories:
+    - "node_modules"
+
+install:
+  - yarn
+  - cd themes/material
+  - yarn
+  - cd ../..
+
+#要執行的程式
+script:
+  - hexo clean # 清除
+  - hexo generate # 生成
+  - cp .travis.yml public/
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  local-dir: public
+  target-branch: master
+  email: jd615645@gmail.com
+  name: jd615645
+  on:
+    branch: hexo_src
+
+notifications:
+  email:
+    on_failure: always
+
+branches:
+  only:
+    - hexo_src
